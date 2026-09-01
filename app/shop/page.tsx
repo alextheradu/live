@@ -16,7 +16,7 @@ export default function Shop() {
 
             <div className="flex flex-row flex-wrap gap-4">
         {allShopItems.map((item, i) => (
-                <ShopItem key={i} name={item.name} price={item.price} img={item.img} />
+                <ShopItem key={i} name={item.name} price={item.price} description={item.description} img={item.img} />
 
 
             ))}

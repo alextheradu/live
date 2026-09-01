@@ -226,6 +226,7 @@ export default function Home() {
             </>
 
             )}
+            <p className="font-2 font-sm">made by seba (plastuchino on da slack)</p>
 
         </div>
 
