@@ -28,7 +28,7 @@ export const allShopItems: ShopItem[] = [
 
   // LVL 5 CLEARANCE — 50 hours
   { name: "GoPro HERO12 Black", price: 50, img: "/prizes/gopro.jpg" },
-  { name: "Flipper Zero", price: 25, img: "/prizes/flipper_zero_img.webp" },
+  { name: "Flipper Zero", price: 35, img: "/prizes/flipper_zero_img.webp" },
   { name: "Thinkpad T14 (Gen 2)", price: 50, img: "/prizes/thinkpad_laptop_img.jpg" },
   { name: "Hack The Box VIP+ 1 Year Subscription", price: 50, img: "/prizes/hackthebox.png" },
   { name: "Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black)", price: 50, img: "/prizes/headphones.png" },
