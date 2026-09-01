@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, cupcake;
+}
+
+
+.font-1 {
+    font-family: var(--font-lato), sans-serif;
+}
+
+.font-2 {
+    font-family: var(--font-rubik-spray-paint), system-ui;
+}
