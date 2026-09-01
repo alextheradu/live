@@ -8,7 +8,7 @@ export const allShopItems: ShopItem[] = [
   // LVL 1 CLEARANCE — 1 hour
   { name: "One Key Keychain", price: 1, img: "/prizes/keychain_image.jpg" },
   { name: "$6.5/hr Hardware Grant", price: 1, img: "/prizes/grant_image.jpg" },
-  { name: "$5.75/hr Upgrade Grant", price: 1, img: "/prizes/grant_image.jpg" },
+  { name: "$5.00/hr Upgrade Grant", price: 1, img: "/prizes/grant_image.jpg" },
 
   // LVL 2 CLEARANCE — 3 hours
   { name: "$20 AI Grant", price: 3, img: "/prizes/claude_vs_gemini.png" },
@@ -24,10 +24,11 @@ export const allShopItems: ShopItem[] = [
 
   // LVL 4 CLEARANCE — 25 hours
   { name: "144Hz Curved Monitor", price: 25, img: "/prizes/minotor_pic.avif" },
-  { name: "Flipper Zero", price: 25, img: "/prizes/flipper_zero_img.webp" },
+
 
   // LVL 5 CLEARANCE — 50 hours
   { name: "GoPro HERO12 Black", price: 50, img: "/prizes/gopro.jpg" },
+  { name: "Flipper Zero", price: 25, img: "/prizes/flipper_zero_img.webp" },
   { name: "Thinkpad T14 (Gen 2)", price: 50, img: "/prizes/thinkpad_laptop_img.jpg" },
   { name: "Hack The Box VIP+ 1 Year Subscription", price: 50, img: "/prizes/hackthebox.png" },
   { name: "Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black)", price: 50, img: "/prizes/headphones.png" },
