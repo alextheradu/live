@@ -3,11 +3,17 @@
   themes: light --default, dark --prefersdark, cupcake;
 }
 
+/* font-1 */
+/* font-family: "Short Stack", cursive; */
 
-.font-1 {
-    font-family: var(--font-lato), sans-serif;
-}
+
+/* font-2 */
+/* font-family: "Fira Sans", sans-serif; */
 
 .font-2 {
-    font-family: var(--font-rubik-spray-paint), system-ui;
+    font-family: var(--font-short-stack), cursive;
+}
+
+.font-1 {
+    font-family: var(--font-fira-sans), sans-serif;
 }
