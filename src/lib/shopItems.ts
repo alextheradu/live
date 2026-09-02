@@ -7,6 +7,10 @@ export type ShopItem = {
 
 export const allShopItems: ShopItem[] = [
   // LVL 1 CLEARANCE — 1 hour
+  { name: "water balloon thrown at me", price: 1, img: "/prizes/waterBalloonThrown.jpeg", description: "a water balloon will be thrown at me on stream. 1 hour = 1 water balloon"},
+  { name: "eat half a lemon", price: 10, img: "/prizes/lemon_eating.jpeg", description: "on stream, i'll grab a lemon and start chomping."},
+  // { name: "eat the spiciest chip (one chip challenge)", price: 25, img: "", description: "i will buy and eat the spiciest chip on stream"},
+  // { name: "ill wear a rlly tight skirt for a full day", price: 30, img: "", description: "i will wear a rlly tight skirt for a full day"},
   { name: "One Key Keychain", price: 1, img: "/prizes/keychain_image.jpg", description: "it clicks" },
   { name: "$6.5/hr Hardware Grant", price: 1, img: "/prizes/grant_image.jpg", description: "funding to actually build out your project" },
   { name: "$5.00/hr Upgrade Grant", price: 1, img: "/prizes/grant_image.jpg", description: "lets say you want a slightly better laptop that costs 50 bucks more. you first would qualify for the laptop, n then you can use the upgrade grant to 'upgrade' ur prize further. "},
