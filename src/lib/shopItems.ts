@@ -17,7 +17,7 @@ export const allShopItems: ShopItem[] = [
   { name: "Four Key Macropad", price: 3, img: "/prizes/macropad_image.jpg", description: "little macropad you can actually use" },
 
   // LVL 3 CLEARANCE — 15 hours
-  { name: "Casio Watch", price: 15, img: "/prizes/casio_image.jpg", description: "buy yourself a watch up to 100 dollars worth" },
+  // { name: "Casio Watch", price: 15, img: "/prizes/casio_image.jpg", description: "buy yourself a watch up to 100 dollars worth" },
   { name: "ProtonMe 1 year subscription", price: 15, img: "/prizes/protonMe.jpg", description: "we all love privacy and stuff" },
   { name: "TryHackMe 6 month subscription", price: 15, img: "/prizes/tryHackMe.png", description: "get cracked at cybersec rlly quick here" },
   { name: "EPOMAKER TH99 PRO Keyboard", price: 15, img: "/prizes/creamy_keyboard.jpg", description: "my favorite keyboard by far." },
@@ -28,12 +28,12 @@ export const allShopItems: ShopItem[] = [
 
 
   // LVL 5 CLEARANCE — 50 hours
-  { name: "GoPro HERO12 Black", price: 50, img: "/prizes/gopro.jpg", description: "record your adventures?" },
+  { name: "GoPro HERO12 Black", price: 65, img: "/prizes/gopro.jpg", description: "record your adventures?" },
   { name: "Flipper Zero", price: 35, img: "/prizes/flipper_zero_img.webp", description: "flipper zero to flip into people's computers (im tryna be clever here)." },
   { name: "Thinkpad T14 (Gen 2)", price: 50, img: "/prizes/thinkpad_laptop_img.jpg", description: "decent laptop for the price: Gen 2 14 inch FHD Intel i5-1135G7 2.4GHz 16GB RAM 128GB "  },
   // { name: "Hack The Box VIP+ 1 Year Subscription", price: 50, img: "/prizes/hackthebox.png" },
   { name: "Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black)", price: 50, img: "/prizes/headphones.png", description: "rlly nice headphones" },
-  { name: "Meta Glasses Gen 1", price: 50, img: "/prizes/metaGlasses.jpeg", description: "because meta glasses r cool" },
+  { name: "Meta Glasses Gen 1", price: 65, img: "/prizes/metaGlasses.jpeg", description: "because meta glasses r cool" },
 
   { name: "Gaming PC with a 4060", price: 200, img: "/prizes/gaming_pc_img.webp", description: "1.1k PC grant. some people like prebuilts, others don't. i wont bat an eye as long as its a PC." },
 ];
